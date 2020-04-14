@@ -1,8 +1,8 @@
 {
 
  "Account": {
-     "Username": "dogeinvestors",
-     "Password": "zaincool225"
+     "Username": "user",
+     "Password": "pass"
      },
  "Target Profit": "1000",
  "Target Win": "1500",
@@ -11,7 +11,7 @@
  "Config": [{
 
      "Name Bet Set": "Mining",
-     "Base Bet": "0.01",
+     "Base Bet": "1.1",
      "Max Bet": "OFF",
      "Chance": "81",
      "Random Chance": {
